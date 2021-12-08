@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QS5JCDFIiosMQM5wqW2FTfjlpA/S9GuBm9wmzKk99070IP8wf42LAVHVr6k4rYV9KAgBeyEAhUn4sDHTAvX6Ow==",
+  "success": true,
+  "projectFilePath": "D:\\С#\\AbstractFactory\\AbstractFactory\\AbstractFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SkyNET\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\SkyNET\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\SkyNET\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\SkyNET\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
